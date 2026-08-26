@@ -1150,4 +1150,4 @@ with aba11:
 
 # ===== RODAPÉ =====
 st.markdown("---")
-st.markdown("Desenvolvido por Kluyvert ⚡")
+st.markdown("Desenvolvido por Kluyvert ⚡ \n\n:yellow[Protótipo de sistema de energia solar para dimensionamento e cálculo de geração fotovoltaica:] \n\n **:green[KANERGY]**")
